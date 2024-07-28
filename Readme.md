@@ -1,4 +1,4 @@
-![ThumbNail com título do projeto "Primeiro Portifólio"](https://raw.githubusercontent.com/robertanatany/portifolio_alura/Front-end-PrimeiroPortifólio-Alura+Oracle.png)
+![ThumbNail com título do projeto "Primeiro Portifólio"](https://raw.githubusercontent.com/robertanatany/portifolio_alura/Front-end-Primeiro-Portifólio.png)
 # Meu Primeiro Projeto de Portfólio
 
 Bem-vindo ao meu primeiro projeto, desenvolvido durante a Imersão Alura em parceria com a Oracle.
